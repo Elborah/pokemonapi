@@ -1,0 +1,1 @@
+alert("Tap ok, to view this website") 
